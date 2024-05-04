@@ -1,8 +1,14 @@
-# React + Vite
+Protoype/core application:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Begin by displaying a tree profile
 
-Currently, two official plugins are available:
+Add trees
+Pictures
+Category information
+Text
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Make trees searchable
+Create users, have users post trees
+Forum style comments allowed on trees
+"Posts" feature but it is exclusively trees
+Can also view trees by user
