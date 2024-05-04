@@ -1,0 +1,14 @@
+{
+  "Trees": {
+    "tree1": {
+      "treeId": "1",
+      "userId": "1",
+      "species": "Japanese Maple",
+      "height": "19 in",
+      "nebari": "6 in",
+      "DOB": "1998",
+      "origin": "Rooted cutting grafted onto a root base",
+      "photos": "[]"
+    }
+  }
+}
